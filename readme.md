@@ -1,0 +1,4 @@
+a barra de navegação é simples e dá-nos acesso ás outras páginas do site e redes sociais. passando o cursor por cima de cada título de página, as mesmas ficarão preenchidas e clicando em cada somos direcionados à devida página.
+a página inicial do projeto apresenta 3 dos meus trabalhos com edição onde clicando nas imagens dos mesmos somos direcionados às respetivas páginas dos mesmos. usei uma class para cada elemento dentro da página home e fiz, dentro do css, uma animação para assim que o cursor passe em cima da imagem a mesma fique preenchida.
+dentro da página "sobre mim" apenas tem um pequeno texto sobre mim juntamente com uma foto, onde só alinhei uma com a outra dentro do css
+dentro do html defini todas as classes para cada página, imagem ou texto dentro do site para dentro do css poder estilizar tudo de maneira mais simplificada. usei o js apenas para poder permitir a visão de cada página do site
